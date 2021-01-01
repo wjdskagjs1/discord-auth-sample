@@ -1,0 +1,5 @@
+{
+    "auth_link": "your auth link : ex) https://discord.com/api/oauth2/authorize?~~",
+    "client_id": "your client id",
+    "client_secret": "your client secret"
+}
